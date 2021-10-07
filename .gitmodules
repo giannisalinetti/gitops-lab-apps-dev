@@ -1,0 +1,3 @@
+[submodule "gitops-lab-apps-base"]
+	path = gitops-lab-apps-base
+	url = git@github.com:giannisalinetti/gitops-lab-apps-base.git

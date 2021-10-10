@@ -1,0 +1,9 @@
+bases:
+  - ../../gitops-lab-apps-base/hello-openshift
+commonlabels:
+  env: dev
+  cluster: cluster1-dev
+
+replicas:
+  - name: hello-openshift
+    count: 12

@@ -6,4 +6,4 @@ commonlabels:
 
 replicas:
   - name: hello-openshift
-    count: 4
+    count: 3
